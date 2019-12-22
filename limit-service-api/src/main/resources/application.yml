@@ -1,0 +1,9 @@
+
+spring:  application:    name: limit-service-api
+
+limit:
+   max : 1000
+   min: 1001
+   
+   
+server:  port: 8080   
